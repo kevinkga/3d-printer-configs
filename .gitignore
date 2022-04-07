@@ -1,2 +1,3 @@
 config/
-firmware/
+firmware_binaries/
+printer-*.cfg
